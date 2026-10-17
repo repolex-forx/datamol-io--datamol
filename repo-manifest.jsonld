@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datamol-io/datamol/commit/ea501d4bbe12909325eaceb881abfbc316440c9a",
       "git:hexsha": "ea501d4bbe12909325eaceb881abfbc316440c9a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/datamol-io/datamol/commit/2836043e0443d835f091191cd7516c23649006ab",
