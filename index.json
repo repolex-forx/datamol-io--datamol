@@ -1,0 +1,11 @@
+{
+  "org": "datamol-io",
+  "repo": "datamol",
+  "versions": [
+    {
+      "commit": "ea501d4bbe12909325eaceb881abfbc316440c9a",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:51:51.744384+00:00"
+    }
+  ]
+}
