@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/datamol-io/datamol/commit/ea501d4bbe12909325eaceb881abfbc316440c9a",
       "git:hexsha": "ea501d4bbe12909325eaceb881abfbc316440c9a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:51:51.722106+00:00"
     },
     {
       "@id": "https://repolex.ai/r/datamol-io/datamol/commit/2836043e0443d835f091191cd7516c23649006ab",
